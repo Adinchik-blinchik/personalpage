@@ -1,0 +1,14 @@
+<html> 
+<head> <title> antet </title> </head>
+<body bgcolor=#FCF3CF> <h1> Realiz&#259ri  </h1>
+De fapt, sincer&#259 s&#259 fiu, e foarte dificil pentru mine la etapa actual&#259 s&#259 scriu despre 
+realiz&#259ri. Dar simt c&#259 am nevoie de aceast&#259 experient&#259. Asa c&#259, in primul rand, 
+sunt bravo c&#259 am ales aceast&#259 rubric&#259 si c&#259 am inv&#259tat unele instructiuni noi pentru html. 
+<ul type=arrow>
+<li> M&#259 mandresc cu faptul c&#259 am inv&#259tat rusa la o varst&#259 fraged&#259, aceasta nefiind vorbit&#259 in 
+familie. 
+<li> Am inv&#259tat s&#259 dansez si s&#259 fac elemente de gimnastic&#259
+<li> Am inv&#259tat s&#259 iau note bune, iar dup&#259 asta ele au sc&#259zut din important&#259
+<li> Am inv&#259tat despre corpul fizic si mental, despre intuitie, noroc, despre energie si durere dintr-un alt punct de vedere, unul neobisnuit
+</body>
+</html>
